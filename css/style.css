@@ -1,0 +1,34 @@
+.hidenn {
+    display: none;
+}
+
+.flex-list.button:hover {
+    background-color : rgb();
+}
+
+/* Masquer tous les contenus d'onglets sauf celui actif */
+.tab-content-item {
+    display: none;
+  }
+  
+  .tab-content-item.active {
+    display: block;
+  }
+  
+  /* Style de l'onglet actif */
+  .tab.active {
+    background-color: white;
+  }
+  
+/* Ajoutez cette classe pour l'onglet actif */
+.tab.active, .tabs-link.active {
+    background-color: white;
+  }
+  
+  /* ***************************exercice salade********************************************** */
+
+  .ingredient, .salad-ingredient {
+    cursor: pointer;
+    margin-bottom: 5px;
+  }
+  
