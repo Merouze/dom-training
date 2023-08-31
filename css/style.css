@@ -7,6 +7,7 @@
 }
 
 /* Masquer tous les contenus d'onglets sauf celui actif */
+
 .tab-content-item {
     display: none;
   }
@@ -19,7 +20,7 @@
   .tab.active {
     background-color: white;
   }
-  
+
 /* Ajoutez cette classe pour l'onglet actif */
 .tab.active, .tabs-link.active {
     background-color: white;

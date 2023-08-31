@@ -13,5 +13,3 @@ tabs.forEach(tab => {
       content.classList.add('active');
     });
   });
-  
-
